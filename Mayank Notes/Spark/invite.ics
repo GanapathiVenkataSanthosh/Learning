@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+METHOD:REQUEST
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20250912T121109Z
+DTSTART;TZID=Asia/Kolkata:20250913T110000
+DTEND;TZID=Asia/Kolkata:20250913T113000
+SUMMARY:Capgemini Group - Interview confirmation - Role: Azure Databricks Engineer
+TZID:Asia/Kolkata
+UID:CDVCAPGB@96d70b5b2b456ec68dc3800ded8361d8@15e7941f-927d-4975-a5f5-8082340d942d
+SEQUENCE:53525469
+DESCRIPTION:Dear Ganapathi Venkata Santhosh\,\nWe are pleased to invite you to an interview for the position of Azure Databricks Engineer. \nThe interview details are as follows: \nL1 Technical Interview ( 30 minutes )\n  When: Sep 13\, 2025\, 11:00 AM - 11:30 AM Asia/Calcutta\n  Where: Microsoft Teams -  join the meeting (https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGU2MGZhZTAtMDg0ZS00M2ZjLWFkNmItMWExNzkxNjc2OGZh%40thread.v2/0?context=%7b%22Tid%22%3a%2276a2ae5a-9f00-4f6b-95ed-5d33d77c4d61%22%2c%22Oid%22%3a%22c0a383c8-ebe6-4f20-9503-1de60003d486%22%7d)\n  Interviewer(s): Polapally Kishore\nIf your interview is due to take place by telephone\, you will be contacted on the following number: +918317608335. If your interview is to be held at a Capgemini location\, please report to the reception desk upon arrival with your personal ID document. For all other locations\, instructions will be sent to you in a separate email. \nShould you need to cancel or reschedule your interview please click the following link: https://sh-ir.phenom.com/uz7wImU .\nFor any additional questions prior to your interview please reach out to your recruitment contact Soumya Mohapatra at soumya.mohapatra@capgemini.com.\nWe look forward to meeting you soon\, and wish you the best of luck!\nBest Regards\,\nTalent Acquisition Team\nCopyrights 2025\, Capgemini\nTo ensure delivery to your inbox\, please add mailto:interview@jobs.capgemini.com to your address book\n
+LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGU2MGZhZTAtMDg0ZS00M2ZjLWFkNmItMWExNzkxNjc2OGZh%40thread.v2/0?context=%7b%22Tid%22%3a%2276a2ae5a-9f00-4f6b-95ed-5d33d77c4d61%22%2c%22Oid%22%3a%22c0a383c8-ebe6-4f20-9503-1de60003d486%22%7d
+ORGANIZER;CN=Capgemini:mailto:interview@jobs.capgemini.com
+LAST-MODIFIED:20250912T121109Z
+CLASS:PRIVATE
+ATTENDEE;ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:ganapathisanthosh2@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:soumya.mohapatra@capgemini.com
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:AUDIO
+DESCRIPTION:Capgemini Group - Interview confirmation - Role: Azure Databricks Engineer
+END:VALARM
+END:VEVENT
+END:VCALENDAR
